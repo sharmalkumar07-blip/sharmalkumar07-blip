@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Sharmal Kumar 👋
 
-<!--
-**sharmalkumar07-blip/sharmalkumar07-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 BBA Student at Thiruvalluvar University
 
-Here are some ideas to get you started:
+📊 Aspiring Business Analyst with interests in:
+- Data Analytics
+- HR Analytics
+- Business Analytics
+- AI-Powered Productivity Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Microsoft Excel
+- Power BI
+- Data Analysis
+- Business Research
+- HR Analytics
+- Reporting & Visualization
+
+## Featured Projects
+
+### Time Management & Employee Efficiency Study
+Research-based project analyzing the relationship between time management and employee productivity.
+
+### TimeFlow
+AI-powered productivity and time management platform designed to improve efficiency and workflow management.
+
+### Student Buying Behavior Analysis
+Survey-based analysis identifying consumer behavior patterns and brand perception.
+
+## Currently Learning
+- Power BI
+- Business Analytics
+- HR Analytics
+- AI Tools
+
+## Connect With Me
+LinkedIn: Add your LinkedIn profile URL here
+
+---
+⭐ Always learning and building practical solutions through analytics and research.
