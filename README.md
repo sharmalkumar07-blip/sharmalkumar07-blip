@@ -35,8 +35,7 @@ Survey-based analysis identifying consumer behavior patterns and brand perceptio
 - AI Tools
 
 ## Connect With Me
-LinkedIn: www.linkedin.com/in/
-sharmalkumar
+LinkedIn: www.linkedin.com/in/sharmalkumar
 
 
 
